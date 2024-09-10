@@ -4,7 +4,7 @@ Perkenalkan nama saya **Miguel Wisli**.<br>
  
 Saya seorang **Mahasiswa** di [Universitas Sriwijaya](https://unsri.ac.id/).<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/miguel-wisli)ku ya.
  
 ### Github Statistic
 <p align="left">
